@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .navbar .active {
+    color: rgb(51, 190, 127);
+    text-decoration: underline; 
+  }
+  
